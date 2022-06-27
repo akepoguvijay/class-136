@@ -1,0 +1,33 @@
+body
+{
+    background-image: url("bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3
+{
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+#start
+{
+    color: white;
+    font-size: 20px;
+}
+
+.copy_right_footer
+{
+    bottom: 0;
+    font-size: 20px;
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
